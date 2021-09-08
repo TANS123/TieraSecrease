@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"> 
+    <head>
+        <link rel="stylesheet" href="styles.css">
+        <meta charset="utf-8">
+        <title>Practice</title>
+        <heading>Welcome to my Website!</heading>
+    </head>
+    <body>
+
+        <p>I'm excited to eventually learn Flask!</p>
+
+        <a href= "https://flask.palletsprojects.com/en/2.0.x/">Here is a link to the official Flask Website</a>
+
+        <p>Here is a picture of a puppy from Unsplash:</p>
+        <img class="dog" src="https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/322868_1100-800x825.jpg">
+        <p>Here are 3 reasons Flask is cool:</p>
+
+        <ol>
+            <li>Very simple</li>
+            <li>Lots of available add ons</li>
+            <li>Create a website in a few minutes</li>
+        </ol>
+
+        <a href="https://flask.palletsprojects.com/en/2.0.x/">
+            <img class="link" src="https://media.nature.com/lw800/magazine-assets/d41586-020-01430-5/d41586-020-01430-5_17977552.jpg">
+        </a>
+    </body>
+</html>
