@@ -1,37 +1,8 @@
-h1 {
-    color: pink;
-    font-family: 'Rampart One', cursive;
+.custom {
+    color:indianred;
+  font-size: 12px;
 }
-
-body {
-    background: linear-gradient(to right, #F78770, #FF607B ); ;
-}
-
-p {
-    color: yellow;
-    font-family: 'Teko', sans-serif;
-}
-
-button {
-background-color: pink;
-    transition-duration: 0.4s;
-    color: red;
-}
-input:hover {
-    background-color: red;
-    color: pink;
-}
-h2 {
-    color: rebeccapurple;
-}
-img {
-    border-radius: 8px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 30%;
-}
-
-li {
-    color: orangered;
+#custom {
+    background-color:indigo;
+    
 }
